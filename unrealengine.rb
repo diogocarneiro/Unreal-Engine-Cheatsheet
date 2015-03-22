@@ -65,7 +65,7 @@ cheatsheet do
   * Based on [Unreal Engine 4.7.3](http://www.unrealengine.com)
   * Written by	: Gamevolutions - Diogo Carneiro
   * Website 	: <a href="http://www.gamevolutions.com">Gamevolutions</a>
-  * Email 		: <a href="mailto:diogocarnmeiro@icloud.com">diogocarnmeiro@icloud.com</a>
+  * Email 	: <a href="mailto:diogocarnmeiro@icloud.com">diogocarnmeiro@icloud.com</a>
   * Revision    : 1.0
   END
   
