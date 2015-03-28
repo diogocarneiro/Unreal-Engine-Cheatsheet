@@ -4,4 +4,4 @@
 # Simple wrapper around Setup.sh using the
 # .command extension enables it to be run from the OSX Finder.
 
-sh "`dirname "$0"`"/setup.sh
+sh "`dirname "$0"`"/firstinstall.sh
