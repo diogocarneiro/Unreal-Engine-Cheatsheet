@@ -3,8 +3,8 @@
 set -e
 
 cd "`dirname "$0"`"
-$dep = xcode-select --install
-if $dep == true then
+xcode-select --install
+if xcode-select = true then
 echo 'As dependêcias já se encontras instaladas!';
 else
 sudo gem install cheatset
