@@ -3,4 +3,5 @@
 set -e
 
 cd "`dirname "$0"`"
+sudo gem install cheatset
 cheatset generate unrealengine.rb
